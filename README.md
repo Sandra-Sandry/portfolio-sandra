@@ -1,13 +1,13 @@
 # Sandra M. — Perfil profesional
 
 **Aspirante a FP Dual — Desarrollo de Aplicaciones Web (DAW)**  
-En transición activa hacia el sector tecnológico.
+Impulsando mis capacidades hacia el desarrollo web.
 
 ---
 
 ## Sobre mí
 
-Aporto 18 años de experiencia en gestión operativa, resolución de incidencias y dirección de equipos en la administración pública. Actualmente en excedencia voluntaria para dedicación plena a mi transición al sector tecnológico.
+Profesional con sólida trayectoria y madurez laboral, destacando mi experiencia en la **gestión de equipos de trabajo y la optimización de flujos operativos** bajo entornos de alta responsabilidad (2016-2025). Tras completar con éxito el **Bootcamp de Ciberseguridad en The Bridge**, decidí canalizar mi futuro profesional hacia el sector tecnológico. Actualmente me encuentro con total disponibilidad geográfica y horaria para incorporarme al proyecto de FP Dual en DAW, con el objetivo de especializarme en la creación de software robusto, eficiente y seguro.
 
 ---
 
@@ -54,6 +54,8 @@ Cualificación IFC748_2 · Nivel B2 DigComp
 - **Cisco Networking Academy** — Networking Basics · [Verificar en Parchment](https://badges.parchment.com/public/assertions/zSXkcvJaStm-SW5xuW2W2g?utm_source=url_copy&identity__email=sandri.merlo%40gmail.com) (marzo 2025)
 - **Plan-A Formación** — Prevención de Riesgos Laborales nivel básico · 60 horas · RD 39/1997 (mayo 2026)
 
+---
+
 ## En curso
 
 **Inteligencia Artificial y Data Science aplicadas a la empresa — Mainjobs / SEPE · NextGenerationEU (junio–agosto 2026)**
@@ -68,7 +70,7 @@ HTML5 · CSS3 · JavaScript · Git · GitHub
 
 ---
 
-## Contacto
+## Portfolio y Contacto
 
 - **Web Profesional:** [https://sandra-sandry.github.io/portfolio-sandra/](https://sandra-sandry.github.io/portfolio-sandra/)
 - **LinkedIn:** [https://www.linkedin.com/in/sandra-m-2466992b2](https://www.linkedin.com/in/sandra-m-2466992b2)
